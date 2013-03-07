@@ -1,0 +1,16 @@
+{
+  "author": "Spencer Kelly <spencerwater@gmail.com> (http://spencerwaterbed.com)",
+  "name": "Wikipedia",
+  "description": "a nice way to wrangle the wikipedia apis",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/spencermountain/Wikipedia.js.git"
+  },
+  "main": "index.js",
+  "engines" : ["node >= 0.3.6"],
+  "dependencies": {
+    "request": "2.12.0",
+    "underscore": "1.4.2"
+  }
+}
